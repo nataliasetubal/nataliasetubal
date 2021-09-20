@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Disponível para trabalhar!
 - 🌱 Estudando Flutter
 - 📫 Contate-me no email: natalia.setubal@outlook.com
 
