@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando Flutter
+- 🌱 Estudando Vue.js
 - 📫 Contate-me no email: natalia.setubal@outlook.com
 
 <div>
