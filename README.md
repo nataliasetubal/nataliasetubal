@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando Vue.js
+- 🌱 Estudando Java
 - 📫 Contate-me no email: natalia.setubal@outlook.com
 
 <div>
