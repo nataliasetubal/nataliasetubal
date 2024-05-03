@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Estudando Java
 - 📫 Contate-me no email: natalia.setubal@outlook.com
 
 <div>
